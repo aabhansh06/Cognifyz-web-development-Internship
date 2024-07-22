@@ -1,0 +1,15 @@
+body{
+    background-color: yellowgreen;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+#btn{
+    height: 50px;
+    width: 100px;
+    margin-top: 20%;
+    border: solid black;
+    border-radius: 8%;
+}

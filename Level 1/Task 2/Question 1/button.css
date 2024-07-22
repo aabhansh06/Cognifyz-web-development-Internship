@@ -1,0 +1,20 @@
+body{
+    /* background-color: rgb(232, 143, 10); */
+    background-image: url(https://images.unsplash.com/photo-1547626740-02cb6aed9ef8?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8fA%3D%3D);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+#btn{
+    height: 80px;
+    width: 150px;
+    margin-top: 20%;
+    border:1px solid rgb(213, 191, 191);
+    border-radius: 8%;
+    font-size: 25px;
+}

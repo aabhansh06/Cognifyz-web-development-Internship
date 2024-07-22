@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+     background-color: rgb(212, 158, 77);
+}
+
+.main{
+    border: 1px solid black;
+    width: 30%;
+    position: absolute;
+    right: 600px;
+    top: 300px;
+    border-radius: 20px;
+}
+
+.main h1{
+    text-align: center;
+    color: rgb(74, 71, 71);
+}
+
+.cal{
+    margin-left: 10%;
+    font-size: 30px;
+    padding-top: 30px;
+    padding: 30px;
+}
+
+#btn{
+    height: 30px;
+    width: 30px;
+    border: 1px solid black;
+}
